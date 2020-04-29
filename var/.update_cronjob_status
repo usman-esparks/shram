@@ -1,0 +1,8 @@
+{
+    "readiness_checks": {
+        "error": "<br/>Found non-writable path(s):<br/>/home/264371.cloudwaysapps.com/kknwknrxhg/public_html/var/.htaccess",
+        "file_permissions_verified": false
+    },
+    "last_timestamp": 1584075605,
+    "current_timestamp": 1584076506
+}
