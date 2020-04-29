@@ -1,0 +1,421 @@
+.mbmenu-block .static-bottom-menu  .img-outside{
+    right: 33px;
+}
+
+.mbmenu-block .static-bottom-menu  {
+    margin-top: 27px;
+}
+
+
+.mbmenu-block .static-bottom-menu  .img-outside img{
+    width: 230px;
+}
+
+.mbmenu-block .static-bottom-menu  .link-text .large-text{
+    font-size: 28px;
+}
+.main-container .main-wrap .product-info-main-top{
+    border-bottom: none;
+    margin-bottom: 0px;
+}
+.contact-index-index .contact-info-text .title{
+    margin: 10px;
+}
+.contact-index-index .page-wrapper .page-bottom{
+    background-color:#f4f5f5;
+    padding: 5px 0;
+}
+.contact-index-index .contact-info-text .heading,.contact-index-index .contact-info-text .text{
+    margin-bottom: 6px;
+}
+.newscntr.col-12.col-sm-7.col-md-7.col-lg-7 {
+    max-width: 100%;
+    padding: 15px 0px;
+}
+/*ye v chng */
+.new-letter-popup{
+    max-width: 750px !important;
+    margin: 0px auto;
+}
+.text-newsletters{
+    max-width: 60% !important;
+    background-color: white;
+    float: left;
+}
+/*ye chnge*/
+.image-newsletter{
+   height: auto;
+    min-height: 340px;
+    background-color: #f2f3f4;
+}
+.image-newsletters{
+    max-width: 300px;
+    height: 335px;
+
+}
+#magebig_newsletter {
+    width: 100%;
+    margin: 0 auto;
+        margin-left: auto;
+    border-radius: 3px;
+
+}
+.newsletter-content {
+    background-color: #fcb934;
+}
+/*ye cnge for title*/
+.newsletter-content .newsletter-title h3 {
+    margin: 15px 0 30px;
+    font-size: 20px;
+    text-align: left !important;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+.newsletter-content .newsletter_text {
+    padding: 0 0px;
+}
+.newsletter-content .newsletter_text .text_desc {
+    color: #000000;
+}
+
+.not-show-popup.field{
+    clear: both;
+    margin-bottom: 20px;
+}
+.newsletter-content .input-box input {
+    height: 44px;
+    padding: 0 15px;
+    width: 70%;
+    text-align: center;
+    float: left;
+    color: #000000;
+    border: 1px solid #d9d9d9;
+}
+.newsletter-content .input-box button {
+        margin-top: 0px;
+    min-height: 44px;
+    margin-bottom: 25px;
+    float: right;
+     background-color: #f43e2b;
+    border: 1px solid #f43f2b;
+    color: #ffffff;
+}
+
+/*ye v chng*/
+ @media only screen and (min-width: 768px) and (max-width: 832px)  {
+
+.text-newsletters {
+    max-width: 60% !important;
+}
+.image-newsletters {
+    max-width: 290px !important;
+}
+
+.newscntr.col-12.col-sm-7.col-md-7.col-lg-7 {
+    padding: 13px 0px;
+}
+
+.image-newsletter {
+    min-height: 320px !important;
+}
+
+}
+ @media only screen and (min-width: 832px) and (max-width: 1900px)  {
+    .text-newsletters .newsletter-content {
+
+    padding: 16px;
+
+}
+.image-newsletters {
+
+    max-width: 300px;
+    height: 341px;
+
+}
+ }
+
+
+/*ye v chng*/
+ @media only screen and (min-width: 782px) and (max-width: 832px)  {
+
+.text-newsletters {
+    max-width: 60% !important;
+}
+.image-newsletters {
+    max-width: 290px !important;
+}
+
+.newscntr.col-12.col-sm-7.col-md-7.col-lg-7 {
+    padding: 13px 0px;
+}
+
+.image-newsletter {
+    min-height: 320px !important;
+}
+
+}
+ @media only screen and (min-width: 760px) and (max-width: 780px)  {
+.image-newsletter{display: none !important;}
+.text-newsletters {
+    max-width: 100% !important;
+}
+
+
+}
+
+
+
+/*yahan tk chnge*/
+
+ @media only screen and (max-width: 767px){ 
+.image-newsletter{display: none !important;}
+.text-newsletters {
+    max-width: 100% !important;
+}
+.newsletter-content .newsletter-title h3 {
+    margin-top: 7%;
+}
+
+}
+
+ @media only screen and (max-width: 500px){ 
+
+.newsletter-content .input-box button {
+    margin-top: 15px !important;
+   float: right !important;}
+.newsletter-content .input-box input {
+    width: 100% !important;
+}
+
+}
+#customer_type{
+    height: 48px;
+    border-radius: 2px;
+    font-size: 1.4rem;
+    width: 100%;
+    order: 1;
+}
+#country{
+    height: 48px;
+    border-radius: 2px;
+    font-size: 1.4rem;
+    width: 100%;
+}
+#region_id,#region{
+    height: 48px;
+    border-radius: 2px;
+    font-size: 1.4rem;
+    width: 100%;
+}
+.custom_account_link_login {
+    font-size: 16px;
+    margin-left: 5%;
+}
+.customr_account_link{
+color: #fcb800;
+
+font-size: 22px;
+}
+.catalog-category-view .page-title {
+    text-align: left;
+}
+.fieldset .legend{
+    display: none;
+}
+/*media query after 768 for icons hide*/
+@media (max-width: 768px) {
+.cms-index-index .block-static .align-items-center .media-left{
+    display: none;
+}
+.cms-index-index .block-static .align-items-center .list-features{
+justify-content: left;
+}
+}
+/*icons set aftre 510 full width*/
+@media (max-width: 530px) {
+
+.cms-index-index .block-static .align-items-center .col-6{
+
+    max-width: 100% !important;
+    flex: 0 0 100%;
+    justify-content: center;
+    display: flex;
+}
+}
+
+
+/*media query after 768*/
+@media all and (max-width: 768px) {
+.footer-main .footer-contact .textwidget .phone{
+    font-size: 1.7rem;
+}}
+
+.footer-main .footer-quicklinks {
+    padding-top: 10px;
+    padding-bottom: 13px;
+}
+.footer-content .footer-main{
+    padding-bottom: 0px;
+
+}
+.footer-content{
+    padding-top: 10px;
+}
+@media all and (max-width: 768px) {
+.footer-content .footer-quicklinks{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+}
+
+
+/*login remove space*/
+@media (max-width: 768px) {
+.login-container, .form.password.reset, .form.send.confirmation, .form.password.forget {
+    max-width: 430px;
+    width: 100%;
+    margin: 15px auto;
+
+}
+.login-container .block .block-title {
+
+    font-weight: bold;
+    margin-bottom: 10px;
+    font-size: 2rem;
+
+}
+}
+
+/*login end*/
+
+/*regiser remove space*/
+@media (max-width: 768px) {
+.block.block-new-customer {
+
+    max-width: 600px;
+    width: 100%;
+    margin: 15px auto;
+
+}
+}
+/*regiser remove space end*/
+
+/*password over flow*/
+@media (max-width: 768px) {
+.password-strength-meter {
+    line-height: 17px;
+}}
+
+.block.block-new-customer .fieldset {
+
+    background-color: #ffffff;
+    border-radius: 2px;
+    padding: 30px;
+
+}
+/*custom style for registration*/
+.account-registration-title{
+    font-size: 29px;
+    text-align: center;
+    margin-left: 20%;
+    font-weight: bolder;
+    font-family: Work Sans;
+}
+.address .personal-account-information{
+    font-size: 29px;
+    text-align: center;
+    margin-left: 20%;
+    font-weight: bolder;
+    font-family: Work Sans;
+}
+ @media only screen and (min-width: 430px) and (max-width: 600px)  {
+.account-registration-title{
+    font-size: 26px;
+    text-align: center;
+    margin-left: 15%;
+    font-weight: bolder;
+    font-family: Work Sans;
+}
+
+}
+@media only screen and (min-width: 290px) and (max-width: 430px)  {
+.account-registration-title{
+    font-size: 18px;
+    text-align: center;
+    margin-left: 8%;
+    font-weight: bolder;
+    font-family: Work Sans;
+}
+
+}
+
+@media only screen and (min-width: 430px) and (max-width: 600px)  {
+.address .personal-account-information{
+    font-size: 26px;
+    text-align: center;
+    margin-left: 15%;
+    font-weight: bolder;
+    font-family: Work Sans;
+}
+
+}
+@media only screen and (min-width: 290px) and (max-width: 430px)  {
+.address .personal-account-information{
+    font-size: 18px;
+    text-align: center;
+    margin-left: 8%;
+    font-weight: bolder;
+    font-family: Work Sans;
+}
+}
+.create #remember-me-box {
+    display: none;
+}
+@media all and (max-width: 768px) {
+.cms-index-index .container.main-container{
+    display: none;
+}}
+@media only screen and (min-width: 290px) and (max-width: 436px)  {
+.newsletter-content .newsletter-title h3 {
+    margin: 15px 0 30px;
+    margin-top: 15px;
+    font-size: 15px;
+    text-align: left !important;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin-top: 9%;
+}
+}
+/*css 30 mach*/
+@media all and (max-width: 768px) {
+#maincontent .page-bottom{
+    background-color: #f4f5f5;
+    padding: 8px 0 !important;
+}}
+.custom-class-requried{
+    font-style: italic;
+    color: red;  
+    font-size: 500;
+    margin-left: 2px;
+}
+
+.login-class{
+    color: #fcb800 !important;
+    font-size: 18px;
+    font-style: italic;
+    font-weight: bold;
+}
+.box-tocart a {
+
+    color: #fcb800;
+    font-size: 18px;
+    font-style: italic;
+
+}
+.mbi.mbi-heart.action.towishlist.mb-tooltip:hover {
+    background-color: #fcb800 !important;
+}
+.magebig-mobile-menu ul.nav-collapse li {
+    text-align: left;
+    padding: 10px !important;
+}

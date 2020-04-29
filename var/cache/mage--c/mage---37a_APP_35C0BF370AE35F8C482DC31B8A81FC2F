@@ -1,0 +1,2 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1588054633;s:6:"expire";i:1588061833;s:4:"tags";s:49:"37a_STORE,37a_CONFIG,37a_COLLECTION_DATA,37a_MAGE";}
+[{"group_id":"1","website_id":"1","code":"main_website_store","name":"Main Website Store","root_category_id":"2","default_store_id":"1"},{"group_id":"5","website_id":"1","code":"store05","name":"store05","root_category_id":"2","default_store_id":"13"}]
